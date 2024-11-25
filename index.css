@@ -1,0 +1,8 @@
+.yellow-white_block {
+  max-width: 600px;
+  text-align: center;
+  color: rgb(59, 60, 80);
+  background-color: #feffef;
+  margin: 30px auto;
+  padding: 20px;
+}
